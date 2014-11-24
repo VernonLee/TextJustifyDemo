@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JustifyTwoDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="before">Before</string>
+    <string name="after">After</string>
+    
+    <string name="english">We challenged ourselves to create a visual language for our users that synthesizes 
+        the classic principles of good design with the innovation and possibility of technology and science. This is 
+        material design. This spec is a living document that will be updated as we continue to develop the tenets 
+        and specifics of material design</string>
+        
+    <string name="chinese">每个人都渴望自由，没有人不爱自由。打从出生开始一直都是规规矩矩的生活，小时候被家
+        里人各种教导各种告诫，长大之后被老师各种教训各种提醒，再之后，就是被社会被不得不继续的生活各种限制束缚。
+        很多选择都不是自己选的，很多事情都不是自己想要的。但是生活还在继续，不能真的像电视剧里面的主人公那样
+        勇敢那样冒险。生活没有剧本，编剧都不止我们自己。</string>
+        
+    <string name="korean">세계적인 과학자 에디슨은 청각장애를 앓고 있었던 사람이었다. 그 때문에 그는 다른 소리를 
+        듣지 않고 연구에 몰입하였기에 목적을 달성할 수 있었다.어느 날 에디슨의 친구가 아들을 데리고 와서 “여보게, 
+        내 아들인데 이놈에게 평생 좌우명이 될만한 이야기를 좀 해주게”라고 말했다.</string>
+        
+    <string name="japan">有島武郎（１８７８－１９２３年）東京生まれ。１０歳で学習院予備科に入学。１９歳で学
+        習院中東全科を卒。その後札幌農学校キリスと教に感化された。卒業して軍隊生活を送った後、渡米。帰国後はふ
+        たたび予備見習士官や大学の英語講師として過ごしていたが、志賀直哉らと出会い同人誌『白樺』に参加。文学者
+        としての活動を開始し、白樺派の中心人物の一人として小説や評論で活躍した。</string>
+</resources>
