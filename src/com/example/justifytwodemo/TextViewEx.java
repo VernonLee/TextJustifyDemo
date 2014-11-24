@@ -49,7 +49,7 @@ public class TextViewEx extends TextView
     private float wrappedEdgeSpace;  
     private String block;              
     private String wrappedLine;   
-    private   Vector<String> lineAsWords;
+    private Vector<String> lineAsWords;
     private Object[] wrappedObj; 
     
     private Bitmap cache = null;
@@ -79,7 +79,7 @@ public class TextViewEx extends TextView
 	public void setPadding(int left, int top, int right, int bottom) {
 		// TODO Auto-generated method stub
     	super.setPadding(left, top, right, bottom);
-		super.setPadding(left+10, top, right+10, bottom);
+		// super.setPadding(left+10, top, right+10, bottom);
 	}
 
 	@Override

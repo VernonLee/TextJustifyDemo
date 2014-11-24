@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">JustifyTwoDemo</string>
+    <string name="app_name">TextJustify</string>
     <string name="action_settings">Settings</string>
     <string name="before">Before</string>
     <string name="after">After</string>
+    <string name="explain">文中内容摘自互联网</string>
     
     <string name="english">We challenged ourselves to create a visual language for our users that synthesizes 
         the classic principles of good design with the innovation and possibility of technology and science. This is 

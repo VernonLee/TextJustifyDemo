@@ -16,7 +16,14 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:text="@string/explain"
+            android:textStyle="italic" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:text="@string/before"
+            android:paddingTop="20dp"
             android:textStyle="bold" />
 
         <TextView
@@ -42,7 +49,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:paddingTop="10dp"
+            android:paddingTop="20dp"
             android:text="@string/after"
             android:textStyle="bold" />
 
